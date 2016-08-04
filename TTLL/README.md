@@ -2,22 +2,22 @@ Set
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
-<img src="Images/1.jpg" width="80"> | y x' D2 R U R' D2 R U' R' x y' | FR block |	![](Images/7.jpg?raw=true) | Alg | ID
-![](Images/2.jpg?raw=true) | Alg | ID	|	![](Images/8.jpg?raw=true) | Alg | ID
-![](Images/3.jpg?raw=true) | Alg | ID	|	![](Images/9.jpg?raw=true) | Alg | ID
-![](Images/4.jpg?raw=true) | Alg | ID	|	![](Images/10.jpg?raw=true) | Alg | ID
-![](Images/5.jpg?raw=true) | Alg | ID	|	![](Images/11.jpg?raw=true) | Alg | ID
-![](Images/6.jpg?raw=true) | Alg | ID	|	![](Images/12.jpg?raw=true) | Alg | ID
+<img src="Images/1.jpg" width="90"> | y x' D2 R U R' D2 R U' R' x y' | FR block |	<img src="Images/7.jpg" width="90"> | Alg | ID
+<img src="Images/2.jpg" width="90"> | Alg | ID	|	<img src="Images/8.jpg" width="90"> | Alg | ID
+<img src="Images/3.jpg" width="90"> | Alg | ID	|	<img src="Images/9.jpg" width="90"> | Alg | ID
+<img src="Images/4.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
+<img src="Images/5.jpg" width="90"> | Alg | ID	|	<img src="Images/11.jpg" width="90"> | Alg | ID
+<img src="Images/6.jpg" width="90"> | Alg | ID	|	<img src="Images/12.jpg" width="90"> | Alg | ID
 Set 
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
-![](Images/13.jpg?raw=true) | Alg | ID	|	![](Images/19.jpg?raw=true) | Alg | ID
-![](Images/14.jpg?raw=true) | Alg | ID	|	![](Images/20.jpg?raw=true) | Alg | ID
-![](Images/15.jpg?raw=true) | Alg | ID	|	![](Images/21.jpg?raw=true) | Alg | ID
-![](Images/16.jpg?raw=true) | Alg | ID	|	![](Images/22.jpg?raw=true) | Alg | ID
-![](Images/17.jpg?raw=true) | Alg | ID	|	![](Images/23.jpg?raw=true) | Alg | ID
-![](Images/18.jpg?raw=true) | Alg | ID	|	![](Images/24.jpg?raw=true) | Alg | ID
+<img src="Images/10.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
+<img src="Images/10.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
+<img src="Images/10.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
+<img src="Images/10.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
+<img src="Images/10.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
+<img src="Images/10.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
 Set 
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
