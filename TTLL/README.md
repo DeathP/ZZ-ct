@@ -2,7 +2,8 @@ Front Bar
 ------------------------
 Case | Algorithm | Case | Algorithm
 ----------- | ----------- | ----------- | ------------
-<img src="Images/1.jpg" width="90"> | y x' D2 R U R' D2 R U' R' x y' |
+<img src="Images/1.jpg" width="90"> | y x' D2 R U R' D2 R U' R' x y' 
+|
 <img src="Images/7.jpg" width="90"> | y' R' U2 R U2 R' U R U2 R2 D' R U2 R' D R2
 <img src="Images/2.jpg" width="90"> | Alg |	<img src="Images/8.jpg" width="90"> | Alg 
 <img src="Images/3.jpg" width="90"> | Alg |	<img src="Images/9.jpg" width="90"> | Alg 
