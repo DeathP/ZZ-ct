@@ -12,22 +12,22 @@ Right Opp
 ------------------------
 Case | Algorithm | Case | Algorithm
 ----------- | ----------- | ----------- | ------------
-<img src="Images/13.jpg" width="90"> | Alg | 	<img src="Images/19.jpg" width="90"> | Alg 
-<img src="Images/14.jpg" width="90"> | Alg | 	<img src="Images/20.jpg" width="90"> | Alg 
-<img src="Images/15.jpg" width="90"> | Alg | 	<img src="Images/21.jpg" width="90"> | Alg 
-<img src="Images/16.jpg" width="90"> | Alg |	<img src="Images/22.jpg" width="90"> | Alg 
-<img src="Images/17.jpg" width="90"> | Alg |	<img src="Images/23.jpg" width="90"> | Alg 
-<img src="Images/18.jpg" width="90"> | Alg |	<img src="Images/24.jpg" width="90"> | Alg 
+<img src="Images/13.jpg" width="90"> | U R U2 R' U2 R U2 R' U' L U' R U L' U R' | 	<img src="Images/19.jpg" width="90"> | y' R D R' U R2 D R' U R D' R' U' D' R' 
+<img src="Images/14.jpg" width="90"> | y' U' R' U R U' R' U2 R U R' U' R | 	<img src="Images/20.jpg" width="90"> | y' R' U R U R' U2 R U2 R' U2 R U' R' U' R
+<img src="Images/15.jpg" width="90"> | y' U R2 U2 R' U R U' R U2 R2 U' R' U' R | 	<img src="Images/21.jpg" width="90"> | U D R2 U' R2 U' R2 U2 R2 U D'
+<img src="Images/16.jpg" width="90"> | y' U2 R' U2 R U R U2 R2 U' R2 U' R' |	<img src="Images/22.jpg" width="90"> | y' U' R U R U' R' U2 R' U2 R2 U R' U' R'
+<img src="Images/17.jpg" width="90"> | U' D R2 U2 R2 U R2 U R2 D' |	<img src="Images/23.jpg" width="90"> | y' U' R' U R U R2 U2 R' U R' U' R' U R2 U R2
+<img src="Images/18.jpg" width="90"> | y' R' U R U R2 U2 R' U R' U' R U2 R2 |	<img src="Images/24.jpg" width="90"> | y' U' R U R2 U R2 U2 R' U' R' U2 R
 Both Opp
 ------------------------
 Case | Algorithm | Case | Algorithm
 ----------- | ----------- | ----------- | ------------
-<img src="Images/25.jpg" width="90"> | Alg |	<img src="Images/31new.jpg" width="90"> | Alg
-<img src="Images/26.jpg" width="90"> | Alg |	<img src="Images/32.jpg" width="90"> | Alg 
-<img src="Images/27.jpg" width="90"> | Alg |	<img src="Images/33.jpg" width="90"> | Alg 
-<img src="Images/28.jpg" width="90"> | Alg |	<img src="Images/34.jpg" width="90"> | Alg 
-<img src="Images/29.jpg" width="90"> | Alg |	<img src="Images/35.jpg" width="90"> | Alg 
-<img src="Images/30.jpg" width="90"> | Alg |	<img src="Images/36.jpg" width="90"> | Alg 
+<img src="Images/25.jpg" width="90"> | R' F' R2' F R U2 R' F' R2 F R U2 |	<img src="Images/31new.jpg" width="90"> | U2 x (R' U R U')*3
+<img src="Images/26.jpg" width="90"> | R' U' R' U R2 D' R U2 R' U2 R U' R' D R' |	<img src="Images/32.jpg" width="90"> | U' R U R' U' R U2 R D R' U R' U' R U R2 D' R
+<img src="Images/27.jpg" width="90"> | R2 D R2 U2 R2 U R2 U R2 U2 D' R2 |	<img src="Images/33.jpg" width="90"> | U' R2 U' F2 U' F2 R2 U2 R2 D R2 D' U'
+<img src="Images/28.jpg" width="90"> | R2 D U2 R2 U' R2 U' R2 U2 R2 D' R2 |	<img src="Images/34.jpg" width="90"> | y' R' U R U R' U R U' R D R' U R D' R' U2 R' U' R
+<img src="Images/29.jpg" width="90"> | R U' R' U' R U' R' U2 R U R' U' R' U L U' R U L' |	<img src="Images/35.jpg" width="90"> | R2 U R' U R U' R' U' D R2 U' R' U R2 U' D' R'
+<img src="Images/30.jpg" width="90"> | U y' R2 D' R2 U2 R2 D R2 D' U' R2 U' R2 |	<img src="Images/36.jpg" width="90"> | R2 U R2 D U R2 D' R2 U2 R2 D R2 D'
 All Bars 
 ------------------------
 Case | Algorithm | Case | Algorithm
