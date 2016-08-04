@@ -2,14 +2,12 @@ Front Bar
 ------------------------
 Case | Algorithm | Case | Algorithm
 ----------- | ----------- | ----------- | ------------
-<img src="Images/1.jpg" width="90"> | y x' D2 R U R' D2 R U' R' x y' 
-|
-<img src="Images/7.jpg" width="90"> | y' R' U2 R U2 R' U R U2 R2 D' R U2 R' D R2
-<img src="Images/2.jpg" width="90"> | Alg |	<img src="Images/8.jpg" width="90"> | Alg 
-<img src="Images/3.jpg" width="90"> | Alg |	<img src="Images/9.jpg" width="90"> | Alg 
-<img src="Images/4.jpg" width="90"> | Alg |	<img src="Images/10.jpg" width="90"> | Alg 
-<img src="Images/5.jpg" width="90"> | Alg |	<img src="Images/11.jpg" width="90"> | Alg 
-<img src="Images/6.jpg" width="90"> | Alg |	<img src="Images/12.jpg" width="90"> | Alg 
+<img src="Images/1.jpg" width="90"> | y x' D2 R U R' D2 R U' R' x y' | <img src="Images/7.jpg" width="90"> | y' R' U2 R U2 R' U R U2 R2 D' R U2 R' D R2
+<img src="Images/2.jpg" width="90"> | U2 R U R' U' R U L' U R' U R U' R' U2 L U |	<img src="Images/8.jpg" width="90"> | R U R' U' R U' R' U' R U R' U' R' D' R U R' D R 
+<img src="Images/3.jpg" width="90"> | U' R' U' D' R U' R' D R D R' U R D' R' U R U |	<img src="Images/9.jpg" width="90"> | y' R' U R' D' R U2 R' D R U2 R U R' U2 R 
+<img src="Images/4.jpg" width="90"> | U' R U2 R' U R U R' U' L U' R U L' U' R' |	<img src="Images/10.jpg" width="90"> | y' R U R' D' R U R' D R D R' U' R D' U' R' 
+<img src="Images/5.jpg" width="90"> | y' R' U2 R U2 R' U R U2 R2 D' r U2 r' D R2 |	<img src="Images/11.jpg" width="90"> | R U2 R' U2 R U' R' U2 L' U R U' L U2 R' 
+<img src="Images/6.jpg" width="90"> | R U2 R U D' R U' R' U2 D R2 U' R |	<img src="Images/12.jpg" width="90"> | F U' F R2 u R' U R U' R u' R2 F2
 Right Opp
 ------------------------
 Case | Algorithm | Case | Algorithm
