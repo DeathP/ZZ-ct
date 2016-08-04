@@ -2,7 +2,7 @@ Set
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
-![](Images/1.jpg=24x48) | y x' D2 R U R' D2 R U' R' x y' | FR block |	![](Images/7.jpg?raw=true) | Alg | ID
+<img src="Images/1.jpg" width="48"> | y x' D2 R U R' D2 R U' R' x y' | FR block |	![](Images/7.jpg?raw=true) | Alg | ID
 ![](Images/2.jpg?raw=true) | Alg | ID	|	![](Images/8.jpg?raw=true) | Alg | ID
 ![](Images/3.jpg?raw=true) | Alg | ID	|	![](Images/9.jpg?raw=true) | Alg | ID
 ![](Images/4.jpg?raw=true) | Alg | ID	|	![](Images/10.jpg?raw=true) | Alg | ID
