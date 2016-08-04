@@ -34,7 +34,7 @@ Case | Algorithm | Case | Algorithm
 ----------- | ----------- | ----------- | ------------
 <img src="Images/37.jpg" width="90"> | y' R' U R' U R U' R U' R2 D R' U' R U D' R' |	<img src="Images/43.jpg" width="90"> | R U' R U' R' U R' U R2 D' R U R' U' D R
 <img src="Images/38.jpg" width="90"> | R2 y R U R' U' R' F R2 U' R' U' R U R' F |	<img src="Images/44.jpg" width="90"> | R U R' U' R U' R' U' R U R D R' U' R D' R' U R' U
-<img src="Images/39.jpg" width="90"> | U R U F R U R' U' F' R2 F R F' R U' R' |	<img src="Images/45.jpg" width="90"> | y F2 R U R' F' R U2 R' U2 R' F R U R U2 R' U' F2
+<img src="Images/39.jpg" width="90"> | U R U F R U R' U' F' R2 F R F' R U' R' |	<img src="Images/45.jpg" width="90"> | R' U R' F' U' F R U R' F R' F' R2 U2 R
 <img src="Images/40.jpg" width="90"> | y L2 R' U2 R U2 R' F R U R' U' R' F' R2 U' L2 |	<img src="Images/46.jpg" width="90"> | R U L' U2 R U' R' U2 L R U' R2
 <img src="Images/41.jpg" width="90"> | R' D' R U' R' U' R U' R' U2 D R2 U' R' U' R U2 R' |	<img src="Images/47.jpg" width="90"> | R U' R' D R' U R U' R' U' R D' R2 U R U' R2
 <img src="Images/42.jpg" width="90"> | R2 U F R U' R' U R U R2 F' U' R' U R' |	<img src="Images/48.jpg" width="90"> | R' U2 R' U R U' D' R U2 R U R U' R2 D R
