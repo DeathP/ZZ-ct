@@ -1,4 +1,4 @@
-Set 
+Front Bar 
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
@@ -8,7 +8,7 @@ Case | Algorithm | Comment | Case | Algorithm | Comment
 <img src="Images/4.jpg" width="90"> | Alg | ID	|	<img src="Images/10.jpg" width="90"> | Alg | ID
 <img src="Images/5.jpg" width="90"> | Alg | ID	|	<img src="Images/11.jpg" width="90"> | Alg | ID
 <img src="Images/6.jpg" width="90"> | Alg | ID	|	<img src="Images/12.jpg" width="90"> | Alg | ID
-Set 
+Right Opp
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
@@ -18,7 +18,7 @@ Case | Algorithm | Comment | Case | Algorithm | Comment
 <img src="Images/16.jpg" width="90"> | Alg | ID	|	<img src="Images/22.jpg" width="90"> | Alg | ID
 <img src="Images/17.jpg" width="90"> | Alg | ID	|	<img src="Images/23.jpg" width="90"> | Alg | ID
 <img src="Images/18.jpg" width="90"> | Alg | ID	|	<img src="Images/24.jpg" width="90"> | Alg | ID
-Set 
+Both Opp
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
@@ -28,7 +28,7 @@ Case | Algorithm | Comment | Case | Algorithm | Comment
 <img src="Images/28.jpg" width="90"> | Alg | ID	|	<img src="Images/34.jpg" width="90"> | Alg | ID
 <img src="Images/29.jpg" width="90"> | Alg | ID	|	<img src="Images/35.jpg" width="90"> | Alg | ID
 <img src="Images/30.jpg" width="90"> | Alg | ID	|	<img src="Images/36.jpg" width="90"> | Alg | ID
-Set 
+All Bars 
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
@@ -38,7 +38,7 @@ Case | Algorithm | Comment | Case | Algorithm | Comment
 <img src="Images/40.jpg" width="90"> | Alg | ID	|	<img src="Images/46.jpg" width="90"> | Alg | ID
 <img src="Images/41.jpg" width="90"> | Alg | ID	|	<img src="Images/47.jpg" width="90"> | Alg | ID
 <img src="Images/42.jpg" width="90"> | Alg | ID	|	<img src="Images/48.jpg" width="90"> | Alg | ID
-Set 
+Right Bar
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
@@ -48,7 +48,7 @@ Case | Algorithm | Comment | Case | Algorithm | Comment
 <img src="Images/52.jpg" width="90"> | Alg | ID	|	<img src="Images/58.jpg" width="90"> | Alg | ID
 <img src="Images/53.jpg" width="90"> | Alg | ID	|	<img src="Images/59.jpg" width="90"> | Alg | ID
 <img src="Images/54.jpg" width="90"> | Alg | ID	|	<img src="Images/60.jpg" width="90"> | Alg | ID
-Set 
+Front Opp 
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
