@@ -22,7 +22,7 @@ Both Opp
 ------------------------
 Case | Algorithm | Comment | Case | Algorithm | Comment
 ----------- | ----------- | ------------ | ----------- | ----------- | ------------
-<img src="Images/25.jpg" width="90"> | Alg | ID	|	<img src="Images/31.jpg" width="90"> | Alg | ID
+<img src="Images/25.jpg" width="90"> | Alg | ID	|	<img src="Images/31new.jpg" width="90"> | Alg | ID
 <img src="Images/26.jpg" width="90"> | Alg | ID	|	<img src="Images/32.jpg" width="90"> | Alg | ID
 <img src="Images/27.jpg" width="90"> | Alg | ID	|	<img src="Images/33.jpg" width="90"> | Alg | ID
 <img src="Images/28.jpg" width="90"> | Alg | ID	|	<img src="Images/34.jpg" width="90"> | Alg | ID
