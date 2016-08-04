@@ -22,7 +22,7 @@ Both Opp
 ------------------------
 Case | Algorithm | Case | Algorithm
 ----------- | ----------- | ----------- | ------------
-<img src="Images/25.jpg" width="90"> | R' F' R2' F R U2 R' F' R2 F R U2 |	<img src="Images/31new.jpg" width="90"> | U2 x (R' U R U')*3
+<img src="Images/25.jpg" width="90"> | x' R' D' (l' R') F R U2 R' F' (l R) D l D2 |	<img src="Images/31new.jpg" width="90"> | U2 x (R' U R U')*3
 <img src="Images/26.jpg" width="90"> | R' U' R' U R2 D' R U2 R' U2 R U' R' D R' |	<img src="Images/32.jpg" width="90"> | U' R U R' U' R U2 R D R' U R' U' R U R2 D' R
 <img src="Images/27.jpg" width="90"> | R2 D R2 U2 R2 U R2 U R2 U2 D' R2 |	<img src="Images/33.jpg" width="90"> | U' R2 U' F2 U' F2 R2 U2 R2 D R2 D' U'
 <img src="Images/28.jpg" width="90"> | R2 D U2 R2 U' R2 U' R2 U2 R2 D' R2 |	<img src="Images/34.jpg" width="90"> | y' R' U R U R' U R U' R D R' U R D' R' U2 R' U' R
