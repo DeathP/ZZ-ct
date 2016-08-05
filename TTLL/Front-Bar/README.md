@@ -1,7 +1,7 @@
 Known Algs for Front Bar Cases
 ------------------------
 Case | Case
------------ | -----------
+:----------: | :----------:
 <img src="Images/1.jpg" width="90"> | <img src="Images/7.jpg" width="90"> 
 y x' D2 R U R' D2 R U' R' x y' | y' R' U2 R U2 R' U R U2 R2 D' R U2 R' D R2
 N/A | N/A
