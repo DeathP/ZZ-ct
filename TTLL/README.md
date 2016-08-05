@@ -47,7 +47,7 @@ Case | Algorithm | Case | Algorithm
 <img src="Images/51.jpg" width="90"> | R2 U' R' U L' U2 R U' R' U2 L R U R2 |	<img src="Images/57.jpg" width="90"> | y' R' U2 R U2 R' U R U2 L U' R' U L' U2 R
 <img src="Images/52.jpg" width="90"> | R' U R' y' R2 u' R U' R' U R' u R2 y R2 |	<img src="Images/58.jpg" width="90"> | R U2 R' U2 R U' R' U2 R2 D r' U2 r D' R2
 <img src="Images/53.jpg" width="90"> | R' U' R D R' U' R D' R' D' R U R' U D R |	<img src="Images/59.jpg" width="90"> | R U' R D R' U2 R D' R' U2 R' U' R U2 R'
-<img src="Images/54.jpg" width="90"> | R' L U' R2 U' R' U' R U2 R2 L' U R U |	<img src="Images/60.jpg" width="90"> | U R U2 R' U R U' R U R' U D' R U R' D R U R2
+<img src="Images/54.jpg" width="90"> | R' L U' R2 U' R' U' R U2 R2 L' U R U |	<img src="Images/60.jpg" width="90"> | U' R2 U2 R2 F2 U' R2 U' R2 U F2 U'
 Front Opp 
 ------------------------
 Case | Algorithm | Case | Algorithm
