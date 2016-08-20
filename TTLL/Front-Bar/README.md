@@ -16,7 +16,7 @@ N/A | N/A
 N/A | N/A
 <img src="Images/4.jpg" width="90"> | <img src="Images/10.jpg" width="90">
 U' R U2 R' U R U R' U' L U' R U L' U' R' | y' R U R' D' R U R' D R D R' U' R D' U' R' 
-N/A | N/A
+N/A | F (R U R' U' R') F' R2 U2 (R' U2 R U2) R'
 N/A | N/A
 <img src="Images/5.jpg" width="90"> | <img src="Images/11.jpg" width="90"> 
 y' R' U2 R U2 R' U R U2 R2 D' r U2 r' D R2 | R U2 R' U2 R U' R' U2 L' U R U' L U2 R' 
